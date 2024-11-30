@@ -13,7 +13,7 @@ Devholder is a PHP application that can be used to generate Placeholder images. 
 
 </div>
 
-[![Documentation](https://img.shields.io/badge/Live-Preview-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)]()
+[![Documentation](https://img.shields.io/badge/Live-Preview-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)](https://devholder.us.to)
 
 
 ### Installation
@@ -24,7 +24,7 @@ Just upload the files to your php server, and you're good to go. Consider updati
 
 <div align="center">
 
- [![Documentation](https://img.shields.io/badge/View-Documentation-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)]()
+ [![Documentation](https://img.shields.io/badge/View-Documentation-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)](https://codersikarwar.github.io/devholder)
 
 </div>
 

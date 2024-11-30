@@ -3,7 +3,7 @@
         'name' => 'codersikarwar/devholder',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '54380b37fe8b949b32dc66ac7ebeca345cc0da08',
+        'reference' => 'd9198769bd25e8ce63823a338ef253b600d9193e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'codersikarwar/devholder' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '54380b37fe8b949b32dc66ac7ebeca345cc0da08',
+            'reference' => 'd9198769bd25e8ce63823a338ef253b600d9193e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
