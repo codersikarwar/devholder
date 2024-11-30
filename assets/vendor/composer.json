@@ -1,0 +1,12 @@
+{
+    "name": "codersikarwar/devholder",
+    "require": {
+        "intervention/image": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Bhoooendra Sikarwar",
+            "email": "bhoppendrasikarwar@gmail.com"
+        }
+    ]
+}
