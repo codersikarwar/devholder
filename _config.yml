@@ -1,2 +1,4 @@
-name: Devholder
-theme: architect
+title: Devholder
+description: A PHP Api to generate placeholder Images
+show_downloads: true
+theme: jekyll-theme-architect
