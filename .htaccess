@@ -1,0 +1,20 @@
+ErrorDocument 404 /600x300/png?txt=404&txt-size=100
+
+Options -Indexes
+
+RewriteEngine On
+RewriteRule ^([0-9x]+)/([A-Za-z0-9-]+)(/([A-F0-9]+))?(/([A-F0-9]+))?/?$ /placeholder.php?size=$1&format=$2&bg=$4&txt-clr=$6 [QSA,NC,L]
+RewriteRule ^([0-9x]+)/([A-Za-z0-9-]+)(/([A-F0-9]+))?/?$ /placeholder.php?size=$1&format=$2&bg=$4 [QSA,NC,L]
+RewriteRule ^([0-9x]+)/([A-Za-z0-9-]+)(/)?$ /placeholder.php?size=$1&format=$2 [QSA,NC,L]
+RewriteRule ^([0-9x]+)(/)?$ /placeholder.php?size=$1 [QSA,NC,L]
+
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+RewriteCond %{THE_REQUEST} \.php [NC]
+RewriteRule \.php$ - [R=404,L]
+
+RewriteRule ^favicon\.ico$ /assets/favicon/favicon.ico [L]
+
+# HTID:22893743: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22893743:
