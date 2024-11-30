@@ -24,7 +24,7 @@ Just upload the files to your php server, and you're good to go. Consider updati
 
 <div align="center">
 
- [![Documentation](https://img.shields.io/badge/View-Documentation-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)](https://codersikarwar.github.io/devholder)
+ [![Documentation](https://img.shields.io/badge/View-Documentation-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)](https://codersikarwar.github.io/codersikarwar/devholder)
 
 </div>
 
