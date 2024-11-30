@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Validate composer.json and composer.lock (change directory)
-      working-directory: assets/vendor/composer.json  # Replace with actual path
+      working-directory: assets/vendor  # Replace with actual path
       run: composer validate --strict
 
     - name: Cache Composer packages (change directory)
