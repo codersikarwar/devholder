@@ -1,13 +1,13 @@
 # Devholder
-Preview at : [https://devholder.us.to](https://devholder.us.to)
-     
-## A PHP Api to generate Placeholder Images
 
 Devholder is a PHP application that can be used to generate Placeholder images. It uses the PHP [Intervention](https://github.com/Intervention/image) library to generate images. It doesn't require heavy setup. Just upload the files to your server, and you're good to go. Consider updating the PHP [Intervention](https://github.com/Intervention/image) library before uploading it to your server.
 
+Preview at : [https://devholder.us.to](https://devholder.us.to)
+     
+---
+
 To use placeholder images, specify `/widthxheight/format` in the image tag's `src` attribute and learn to configure the images as below.
 
----
 
 ### Image Size
 
