@@ -1,68 +1,40 @@
 # Devholder
 
-Devholder is a PHP application that can be used to generate Placeholder images. It uses the PHP [Intervention](https://github.com/Intervention/image) library to generate images. It doesn't require heavy setup. Just upload the files to your server, and you're good to go. Consider updating the PHP [Intervention](https://github.com/Intervention/image) library before uploading it to your server.
 
-Preview at : [https://devholder.us.to](https://devholder.us.to)
+Devholder is a PHP application that can be used to generate Placeholder images. It uses the PHP [Intervention](https://github.com/Intervention/image) library to generate images.
+
+<div align="center">
      
----
+[![GitHub tag](https://img.shields.io/github/tag/codersikarwar/devholder?include_prereleases=&sort=semver&color=blue)](https://github.com/codersikarwar/devholder/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - devholder](https://img.shields.io/github/issues/codersikarwar/devholder)](https://github.com/codersikarwar/devholder/issues)
 
-To use placeholder images, specify `/widthxheight/format` in the image tag's `src` attribute and learn to configure the images as below.
+![Status](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+</div>
+
+[![Documentation](https://img.shields.io/badge/Live-Preview-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)]()
 
 
-### Image Size
+### Installation
 
-Specify the image's dimensions using the format width x height. For example:
+Just upload the files to your php server, and you're good to go. Consider updating the PHP [Intervention](https://github.com/Intervention/image) library before uploading it to the server.
+     
+### Usage
 
-    /600x300/svg?txt-size=70
+<div align="center">
 
-Use the `txt-size` query string in the URL to adjust the text size. The default size is 70.
+ [![Documentation](https://img.shields.io/badge/View-Documentation-informational?logo=&style=for-the-badge&logoColor=333333&color=008575&labelColor=383838)]()
 
----
+</div>
 
-### Format
 
-Supports various formats such as SVG, JPG, and PNG. Specify the format as follows:
+### Follow Us
+     
+<div align="center">
+     
+[![Github](https://img.shields.io/badge/codersikarwar-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codersikarwar)
+[![Instagram](https://img.shields.io/badge/bhoopendra.here-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhoopendra.here)
+[![Website](https://img.shields.io/badge/-Visit%20Website-FFA116?style=for-the-badge&logo=rss&logoColor=white)](https://codersikarwar.us.to)
 
-    /600x300/svg?txt-size=70
-
-    /600x300/png?txt-size=70
-
-    /600x300/jpg?txt-size=70
-
-The default format is SVG.
-
----
-
-### Colour
-
-Specify colors using hex codes for the background and text by using the `bg` and `txt-clr` query strings respectively. For example:
-
-    /600x300/jpg?bg=C5C5C5&txt-clr=000000&txt-size=70
-
----
-
-### Custom Text
-
-Include custom text in the URL using the query string `txt`. Use `+` for spaces. For example:
-
-    /600x300/jpg?bg=C5C5C5&txt-clr=000000&txt=Hello+World&txt-size=70
-
----
-
-### Fonts
-
-Specify the font using the query string in the URL. Font names are case-sensitive.
-
-    /600x300/jpg?bg=C5C5C5&txt-clr=000000&txt=Hello+World&txt-size=70&font=Outfit
-
-The default font is Outfit. You can upload your own custom font and remember to rename it simply so it won't give you errors.
-
-Available fonts:
-
-- Outfit
-- Montserrat
-- Poppins
-
-Remember to capitalize the initial letter when specifying font names.
-
----
+</div>
