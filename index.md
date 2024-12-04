@@ -1,4 +1,4 @@
-# Live Documention
+# Devholder Documention
 
 To use placeholder images, specify `/widthxheight/format` in the image tag's `src` attribute and learn to configure the images as below.
 

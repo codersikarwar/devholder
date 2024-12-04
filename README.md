@@ -40,6 +40,6 @@ Just upload the files to your php server, and you're good to go. Consider updati
      
 [![Github](https://img.shields.io/badge/codersikarwar-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codersikarwar)
 [![Instagram](https://img.shields.io/badge/bhoopendra.here-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhoopendra.here)
-[![Website](https://img.shields.io/badge/-Visit%20Website-008575?style=for-the-badge&logo=rss&logoColor=white)](https://codersikarwar.us.to)
+[![Website](https://img.shields.io/badge/-Visit%20Website-008575?style=for-the-badge&logo=rss&logoColor=white)](https://www.codersikarwar.site)
 
 </div>
