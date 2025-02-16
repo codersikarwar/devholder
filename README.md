@@ -18,8 +18,6 @@ Devholder is a PHP application that can be used to generate Placeholder images. 
 
 
 
-[![Preview](https://img.shields.io/badge/Live-Preview-informational?logo=&style=for-the-badge&logoColor=333333&color=FFA116&labelColor=383838)](https://devholder.us.to)
-
 
 ### Installation
 
